@@ -1,0 +1,36 @@
+{
+  "name": "ianklug grooveboard",
+  "vendorId": "0x4B4C",
+  "productId": "0x4742",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 455218ac (提交说明)
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 4},
+  "layouts": {
+    "keymap": [["0,0", "0,1", {"x": 2}, "0,2", "0,3"]]
+<<<<<<< HEAD
+=======
+=======
+  "matrix": {
+    "rows": 1,
+    "cols": 4
+  },
+  "lighting": "none",
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "0,1",
+        {
+          "x": 2
+        },
+        "0,2",
+        "0,3"
+      ]
+    ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  }
+}

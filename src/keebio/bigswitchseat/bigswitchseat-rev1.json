@@ -1,0 +1,34 @@
+{
+  "name": "Big Switch Seat",
+  "vendorId": "0xCB10",
+  "productId": "0x1011",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 455218ac (提交说明)
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 1},
+  "layouts": {
+    "keymap": [[{"w": 2, "h": 2}, "0,0"]]
+<<<<<<< HEAD
+=======
+=======
+  "matrix": {
+    "rows": 1,
+    "cols": 1
+  },
+  "lighting": "none",
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "w": 2,
+          "h": 2
+        },
+        "0,0"
+      ]
+    ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  }
+}

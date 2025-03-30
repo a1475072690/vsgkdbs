@@ -1,0 +1,39 @@
+{
+  "name": "Pix",
+  "vendorId": "0x5359",
+  "productId": "0x4e34",
+<<<<<<< HEAD
+  "lighting": "qmk_backlight_rgblight",
+=======
+<<<<<<< HEAD
+  "lighting": "qmk_backlight_rgblight",
+=======
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "matrix": {
+    "rows": 1,
+    "cols": 5
+  },
+<<<<<<< HEAD
+  "layouts": {
+    "keymap": [["0,0", "0,1", "0,2", "0,3", "0,4"]]
+=======
+<<<<<<< HEAD
+  "layouts": {
+    "keymap": [["0,0", "0,1", "0,2", "0,3", "0,4"]]
+=======
+  "lighting": "qmk_backlight_rgblight",
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "0,1",
+        "0,2",
+        "0,3",
+        "0,4"
+      ]
+    ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  }
+}

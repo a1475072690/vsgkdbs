@@ -1,0 +1,38 @@
+{
+  "name": "spaceman_2_milk",
+  "vendorId": "0x5342",
+  "productId": "0x3225",
+<<<<<<< HEAD
+  "lighting": "qmk_rgblight",
+=======
+<<<<<<< HEAD
+  "lighting": "qmk_rgblight",
+=======
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "matrix": {
+    "rows": 2,
+    "cols": 1
+  },
+<<<<<<< HEAD
+  "layouts": {
+    "keymap": [["0,0"], ["1,0"]]
+=======
+<<<<<<< HEAD
+  "layouts": {
+    "keymap": [["0,0"], ["1,0"]]
+=======
+  "lighting": "qmk_rgblight",
+  "layouts": {
+    "keymap": [
+      [
+        "0,0"
+      ],
+      [
+        "1,0"
+      ]
+    ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  }
+}

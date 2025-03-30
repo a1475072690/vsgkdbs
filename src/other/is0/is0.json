@@ -1,0 +1,34 @@
+{
+  "name": "is0",
+  "vendorId": "0xa103",
+  "productId": "0x0012",
+<<<<<<< HEAD
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 1},
+=======
+<<<<<<< HEAD
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 1},
+=======
+  "matrix": {
+    "rows": 1,
+    "cols": 1
+  },
+  "lighting": "none",
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "w": 1.25,
+          "h": 2,
+          "w2": 1.5,
+          "h2": 1,
+          "x2": -0.25
+        },
+        "0,0"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "BN003",
+  "vendorId": "0x4249",
+  "productId": "0x4287",
+<<<<<<< HEAD
+  "lighting": "none",
+=======
+<<<<<<< HEAD
+  "lighting": "none",
+=======
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "matrix": {
+    "rows": 1,
+    "cols": 3
+  },
+<<<<<<< HEAD
+  "layouts": {
+    "keymap": [["0,0", "0,1", "0,2"]]
+=======
+<<<<<<< HEAD
+  "layouts": {
+    "keymap": [["0,0", "0,1", "0,2"]]
+=======
+  "lighting": "none",
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "0,1",
+        "0,2"
+      ]
+    ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  }
+}

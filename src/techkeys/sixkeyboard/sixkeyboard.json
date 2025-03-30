@@ -1,0 +1,47 @@
+{
+  "name": "SIXKEYBOARD",
+  "vendorId": "0x746b",
+  "productId": "0x736b",
+<<<<<<< HEAD
+  "lighting": "qmk_backlight",
+  "matrix": {"rows": 2, "cols": 3},
+=======
+<<<<<<< HEAD
+  "lighting": "qmk_backlight",
+  "matrix": {"rows": 2, "cols": 3},
+=======
+  "matrix": {
+    "rows": 2,
+    "cols": 3
+  },
+  "lighting": "qmk_backlight",
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "layouts": {
+    "keymap": [
+      {
+        "name": "sixkeyboard via"
+      },
+<<<<<<< HEAD
+      ["0,0", "0,1", "0,2"],
+      ["1,0", "1,1", "1,2"]
+=======
+<<<<<<< HEAD
+      ["0,0", "0,1", "0,2"],
+      ["1,0", "1,1", "1,2"]
+=======
+      [
+        "0,0",
+        "0,1",
+        "0,2"
+      ],
+      [
+        "1,0",
+        "1,1",
+        "1,2"
+      ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+    ]
+  }
+}
