@@ -1,11 +1,7 @@
 {
   "name": "via-keyboards",
   "version": "0.1.0",
-<<<<<<< HEAD
-  "description": "",
-=======
   "description": "Repository to hold keyboard definitions",
->>>>>>> 04f67182 (Initial commit)
   "bin": {
     "via-keyboards": "./bin/cli.js"
   },
@@ -33,11 +29,7 @@
     "simple-git-hooks": "^2.8.1"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@the-via/reader": "^1.6.0",
-=======
     "@the-via/reader": "^1.9.0",
->>>>>>> 04f67182 (Initial commit)
     "@types/fs-extra": "^11.0.1",
     "@types/glob": "^8.0.1",
     "@types/rimraf": "^3.0.2",
