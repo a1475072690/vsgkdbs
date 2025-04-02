@@ -1,0 +1,37 @@
+{
+  "name": "Stealth",
+  "vendorId": "0x9624",
+  "productId": "0x0010",
+<<<<<<< HEAD
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 3},
+=======
+<<<<<<< HEAD
+  "lighting": "none",
+  "matrix": {"rows": 1, "cols": 3},
+=======
+  "matrix": {
+    "rows": 1,
+    "cols": 3
+  },
+  "lighting": "none",
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "w": 2.25
+        },
+        "0,0"
+      ],
+      [
+        {
+          "w": 1.25
+        },
+        "0,1",
+        "0,2"
+      ]
+    ]
+  }
+}

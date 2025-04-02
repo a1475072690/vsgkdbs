@@ -1,0 +1,55 @@
+{
+  "name": "Retropad",
+  "vendorId": "0x04D8",
+  "productId": "0xEB0C",
+<<<<<<< HEAD
+  "lighting": "qmk_rgblight",
+=======
+<<<<<<< HEAD
+  "lighting": "qmk_rgblight",
+=======
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "matrix": {
+    "rows": 3,
+    "cols": 2
+  },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  "lighting": "qmk_rgblight",
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "x": 0.5,
+          "c": "#aaaaaa"
+        },
+        "0,1"
+      ],
+      [
+        {
+          "y": 0.5,
+          "c": "#777777"
+        },
+        "1,0",
+        "1,1"
+      ],
+<<<<<<< HEAD
+      ["2,0", "2,1"]
+=======
+<<<<<<< HEAD
+      ["2,0", "2,1"]
+=======
+      [
+        "2,0",
+        "2,1"
+      ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "PDXKBC Macropad",
+  "vendorId": "0x5044",
+  "productId": "0x0001",
+<<<<<<< HEAD
+  "lighting": "none",
+=======
+<<<<<<< HEAD
+  "lighting": "none",
+=======
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "matrix": {
+    "rows": 3,
+    "cols": 2
+  },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 455218ac (提交说明)
+  "layouts": {
+    "keymap": [
+      ["0,0", "0,1"],
+      ["1,0", "1,1"],
+      ["2,0", "2,1"]
+<<<<<<< HEAD
+=======
+=======
+  "lighting": "none",
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "0,1"
+      ],
+      [
+        "1,0",
+        "1,1"
+      ],
+      [
+        "2,0",
+        "2,1"
+      ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+    ]
+  }
+}

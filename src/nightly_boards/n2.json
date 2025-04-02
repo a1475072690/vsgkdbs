@@ -1,0 +1,41 @@
+{
+  "name": "Nightly Boards [n]2",
+  "vendorId": "0x0717",
+  "productId": "0x0003",
+<<<<<<< HEAD
+  "lighting": "qmk_rgblight",
+=======
+<<<<<<< HEAD
+  "lighting": "qmk_rgblight",
+=======
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "matrix": {
+    "rows": 2,
+    "cols": 2
+  },
+<<<<<<< HEAD
+  "layouts": {
+    "labels": [],
+    "keymap": [["0,0"], ["1,1"]]
+=======
+<<<<<<< HEAD
+  "layouts": {
+    "labels": [],
+    "keymap": [["0,0"], ["1,1"]]
+=======
+  "lighting": "qmk_rgblight",
+  "layouts": {
+    "labels": [],
+    "keymap": [
+      [
+        "0,0"
+      ],
+      [
+        "1,1"
+      ]
+    ]
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  }
+}

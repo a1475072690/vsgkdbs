@@ -1,0 +1,38 @@
+{
+  "name": "RAMA WORKS M4-A",
+  "vendorId": "0x5241",
+  "productId": "0x004A",
+<<<<<<< HEAD
+  "lighting": "qmk_backlight",
+  "matrix": {"rows": 2, "cols": 2},
+=======
+<<<<<<< HEAD
+  "lighting": "qmk_backlight",
+  "matrix": {"rows": 2, "cols": 2},
+=======
+  "matrix": {
+    "rows": 2,
+    "cols": 2
+  },
+  "lighting": "qmk_backlight",
+>>>>>>> 04f67182 (Initial commit)
+>>>>>>> 455218ac (提交说明)
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "0,1",
+        {
+          "h": 2
+        },
+        "1,1"
+      ],
+      [
+        {
+          "w": 2
+        },
+        "1,0"
+      ]
+    ]
+  }
+}
